@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contactFormFirebase/static/css/main.60bed298.css",
+    "main.js": "/contactFormFirebase/static/js/main.0bf3cb02.js",
+    "index.html": "/contactFormFirebase/index.html",
+    "main.60bed298.css.map": "/contactFormFirebase/static/css/main.60bed298.css.map",
+    "main.0bf3cb02.js.map": "/contactFormFirebase/static/js/main.0bf3cb02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60bed298.css",
+    "static/js/main.0bf3cb02.js"
+  ]
+}
